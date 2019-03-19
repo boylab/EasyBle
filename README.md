@@ -6,7 +6,7 @@ Email : pengle609@163.com
 ```
 
 ### Gradle（预计）
-~~ ` compile 'com.microape.easyble:easyble:1.0.0' ` ~~
+~~` compile 'com.microape.easyble:easyble:1.0.0' `~~
 
 ## Usage
 
