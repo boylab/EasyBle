@@ -3,10 +3,10 @@ package com.microape.easyble.receiver;
 import android.content.Context;
 import android.content.IntentFilter;
 
-import com.microape.easyble.callback.BleAdapter;
-import com.microape.easyble.callback.OnBleConnCallBack;
-import com.microape.easyble.callback.OnBleOpenCallBack;
-import com.microape.easyble.callback.OnBleScanCallBack;
+import com.microape.easyble.common.callback.BleAdapter;
+import com.microape.easyble.common.callback.OnBleConnCallBack;
+import com.microape.easyble.common.callback.OnBleOpenCallBack;
+import com.microape.easyble.common.callback.OnBleScanCallBack;
 
 /**
  * Created by pengle on 2018-11-23.

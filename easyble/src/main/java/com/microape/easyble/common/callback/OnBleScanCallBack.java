@@ -1,4 +1,4 @@
-package com.microape.easyble.callback;
+package com.microape.easyble.common.callback;
 
 import android.bluetooth.BluetoothDevice;
 

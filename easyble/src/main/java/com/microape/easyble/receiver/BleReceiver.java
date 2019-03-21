@@ -6,7 +6,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-import com.microape.easyble.callback.BleAdapter;
+import com.microape.easyble.common.callback.BleAdapter;
 
 /**
  * Created by pengle on 2018-09-13.

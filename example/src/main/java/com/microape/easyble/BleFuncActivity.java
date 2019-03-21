@@ -9,9 +9,9 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.microape.easyble.callback.OnBleConnCallBack;
-import com.microape.easyble.callback.OnBleOpenCallBack;
-import com.microape.easyble.callback.OnBleScanCallBack;
+import com.microape.easyble.common.callback.OnBleConnCallBack;
+import com.microape.easyble.common.callback.OnBleOpenCallBack;
+import com.microape.easyble.common.callback.OnBleScanCallBack;
 
 import java.util.ArrayList;
 
